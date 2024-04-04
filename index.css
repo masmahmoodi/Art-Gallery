@@ -11,7 +11,7 @@
     background-color: #151515;
 }
 
-/* Button */
+/* button */
 .button {
     width: 260px;
     height: 72px;
@@ -24,7 +24,7 @@
     font-family: 'Big Shoulders Display';
     text-transform: uppercase;
     font-weight: 800;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 24px;
     letter-spacing: 3.63636px;
     color: #FFFFFF;
@@ -52,12 +52,18 @@
     cursor: pointer;
 }
 
-/* Typography */
+/* typography */
+
+.heading-l,
+.heading-l ,
+.heading-white 
+{
+    font-size: 30px;
+    line-height: 1.5;
+}
 .heading-xl {
     font-family: 'Big Shoulders Display';
     font-weight: 900;
-    font-size: 60px;
-    line-height: 55px;
     text-transform: uppercase;
     color: #151515;
     margin: 32px 0;
@@ -73,8 +79,6 @@
 .heading-l {
     font-family: 'Big Shoulders Display';
     font-weight: 900;
-    font-size: 50px;
-    line-height: 45px;
     text-transform: uppercase;
     color: #151515;
     margin: 25px 0 21px;
@@ -83,8 +87,6 @@
     font-family: 'Big Shoulders Display';
     font-style: normal;
     font-weight: 900;
-    font-size: 50px;
-    line-height: 45px;
     text-transform: uppercase;
     color: #FFFFFF;
     padding: 48px 24px 24px;
